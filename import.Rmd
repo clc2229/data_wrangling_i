@@ -38,5 +38,6 @@ tail(litters_data)
 
 ## summary of data
 skimr::skim(litters_data)
+
 ```
 
